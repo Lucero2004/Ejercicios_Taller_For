@@ -7,3 +7,4 @@
 
 # Diagrama de fujo
 ![Diagrama de flujo](diagrama.png"diagrama de flujo")
+diagrama.png
