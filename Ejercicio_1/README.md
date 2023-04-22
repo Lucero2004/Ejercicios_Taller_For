@@ -8,4 +8,5 @@
 # Diagrama de fujo
 ![Diagrama de flujo](diagrama.png"diagrama de flujo")
 
-![diagrama](https://user-images.githubusercontent.com/125698535/233754925-20410952-c4df-4101-ac8d-0585874369e5.png)
+
+![diagrama](https://user-images.githubusercontent.com/125698535/233755799-8398da42-5bdd-43d7-8e69-5fe9330ca0b1.png)
